@@ -32,8 +32,8 @@ This project is a simple Notification Service built with Flask and RabbitMQ. It 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rit-0-3/notification_service.git
-cd notification_service
+git clone https://github.com/CloudDev777/SMS_Notification_Service.git
+cd SMS_Notification_Service
 ````
 
 2. Create and activate a virtual environment:
